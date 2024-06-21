@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: isDeBug,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('EnecanYol'),
+          title: Text('myshop'),
           centerTitle: true,
           actions: [
             IconButton(
