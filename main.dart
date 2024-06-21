@@ -7,7 +7,7 @@ void main() {
   print('ilk işlem başarili olarak başlatildi.');
   islem(selamlamaMetni, sayi);
 
-  String name = 'Ece';
+  String name = 'Ahmet';
 
   bool isDeBug = false;
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    String name = 'Ece';
+    String name = 'Ahmet';
 
     bool isDeBug = false;
 
